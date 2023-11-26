@@ -9,7 +9,6 @@ Detecting fraudulent transactions is a critical task in the financial sector. Th
 
 - [Usage](#usage)
 - [Results](#results)
-- [Contributing](#contributing)
 
 
 ## Overview
@@ -39,14 +38,4 @@ The project utilizes a dataset sourced from [this link](https://www.kaggle.com/d
 ## Results
 
 The Random Forest Classifier achieved an accuracy of 85.7% on the test set, effectively identifying fraudulent transactions. Detailed evaluation metrics and visualizations are provided within the notebook.
-
-## Contributing
-
-Contributions are welcome! If you wish to contribute to this project, please follow these steps:
-
-1. Fork the repository.
-2. Create a new branch (`git checkout -b feature/awesome-contribution`).
-3. Make modifications and commit changes (`git commit -am 'Add awesome contribution'`).
-4. Push to the branch (`git push origin feature/awesome-contribution`).
-5. Create a pull request.
 
